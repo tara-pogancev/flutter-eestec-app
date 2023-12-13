@@ -1,0 +1,27 @@
+{
+    "locales(map)": {
+        "en": "English",
+        "sr": "Serbian"
+    },
+    "bottomMenu": {
+        "home": "Home",
+        "events": "Events",
+        "notifications": "Notifications",
+        "profile": "Profile"
+    },
+    "loginScreen": {
+        "welcome": "Welcome\nabroad!",
+        "welcomeDescription": "EESTEC LC Novi Sad is an app that helps you connect with your fellow EESTEC colegues! Discover events, notifications, and projects from within!",
+        "signIn": "Sign in with Google",
+        "termsAndConditions": "Terms and conditions"
+    },
+    "eventsScreen": {
+        "title": "So,\nWhat are your\nplans for today?",
+        "upcomingEvents": "Upcoming events"
+    },
+    "eventDetailsScreen": {
+        "description": "Description",
+        "imComing": "I'm coming!",
+        "notComing": "Not coming."
+    }
+}
